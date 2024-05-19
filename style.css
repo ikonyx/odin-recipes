@@ -1,0 +1,54 @@
+.homepage h1 {
+    color: rgb(35, 90, 44);
+    background-color: #ffe86844;
+    font-size: 42px;
+    text-align: center;
+}
+
+
+.homepage li {
+    text-align: center;
+    list-style-type: none;
+    font-family:'Tahoma, Geneva, Verdana, sans-serif';
+    font-size: 24px;
+    margin: 65px;
+    display: inline-block;
+    
+}
+
+
+.cookie-dough h1,
+.alfredo-dip h1,
+.shrimp-ramen h1 {
+    color: rgb(35, 90, 44);
+    background-color: #ffe86844;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 34px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.cookie-dough,
+.alfredo-dip,
+.shrimp-ramen {
+    border: solid darkgreen;
+    margin: 50px 250px;
+    padding: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}   
+
+img {
+    margin: auto;
+    display: block;
+    object-fit:cover;
+}
+
+span {
+    background-color: #ffea8f;
+}
+
+.homepage a {
+    text-decoration: none;
+    color:black;
+}
