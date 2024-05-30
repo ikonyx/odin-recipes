@@ -1,7 +1,7 @@
 # Odin Recipes
 
 ## Description
-This is my first project within the Oden Project path. I practiced writing basic html and css by building a really simple recipes website.
+This is my first project within the Oden Project path. I practiced writing basic html and css by building a really simple [recipes website](https://ikonyx.github.io/odin-recipes/).
 
 
 ## Topics I practiced on
